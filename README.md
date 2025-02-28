@@ -1,5 +1,6 @@
 # walletApp——数字钱包管理系统
-
+<img src="images/walletAppSign.jpg" alt="登录"/>
+<img src="images/walletAppHome.jpg" alt="主页"/>
 
 #### 项目简介：
 该项目是一款基于现代Web技术的跨平台移动应用，旨在为用户提供安全、便捷的数字资产管理服务。项目采用Vue.js作为前端框架，结合Capacitor实现跨平台开发，支持iOS、Android和Web端。通过集成多种UI组件库和工具，如Quasar、Vant、Unocss等，确保了应用的高性能和良好的用户体验。项目还实现了国际化、路由管理、状态管理等功能，并通过Axios与后端API进行数据交互。
